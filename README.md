@@ -44,5 +44,3 @@ I am characterized by my analytical, critical, and results-oriented thinking, wi
 * Email: (claudia.pinon09@gmail.com)
 
 ---
-
-
