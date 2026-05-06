@@ -33,8 +33,8 @@ I am characterized by my analytical, critical, and results-oriented thinking, wi
 
 ## 📊 Projects
 
-🔹 [Análisis de eficiencia de operadores](link-a-tu-proyecto)
-🔹 [Análisis de ventas](link-a-tu-proyecto)
+🔹 [Análisis de ventas de una empresa de videojuegos!](link-a-tu-proyecto)
+🔹 [Análisis de KPIS](link-a-tu-proyecto)
 🔹 [Dashboard en Power BI](link-a-tu-proyecto)
 
 ---
