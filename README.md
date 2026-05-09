@@ -13,9 +13,9 @@ I am characterized by my analytical, critical, and results-oriented thinking, wi
 
 ---
 
-## 📊  Data Analyst Jr. | Python, SQL, Tableau
+## 📊  Data Analyst Jr. | Python, SQL, Power BI, Tableau
 
-* Python (pandas, numpy, matplotlib)
+* Python (pandas, numpy, matplotlib, scipy)
 * SQL
 * Excel
 * Power BI
@@ -31,7 +31,7 @@ I am characterized by my analytical, critical, and results-oriented thinking, wi
 * Tableau
 ---
 
-## 📊 Projects
+## 📁 Projects
 
 🔹 [Análisis de ventas de una empresa de videojuegos!](link-a-tu-proyecto)
 
