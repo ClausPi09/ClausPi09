@@ -1,4 +1,4 @@
-## Hi world! I'm Claudia Piñón👋
+## Hello world! I'm Claudia Piñón👋
 
 <!--
 **ClausPi09/ClausPi09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
