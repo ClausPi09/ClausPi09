@@ -33,7 +33,7 @@ I am characterized by my analytical, critical, and results-oriented thinking, wi
 
 ## 📁 Projects
 
-🔹 [Análisis de ventas de una empresa de videojuegos!](link-a-tu-proyecto)
+🔹 [Analisys videogames!](link-a-tu-proyecto)
 
 🔹 [Análisis de KPIS](link-a-tu-proyecto)
 
