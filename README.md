@@ -11,24 +11,16 @@ I have developed projects focused on behavioral analysis, business KPIs, and hyp
 
 I am characterized by my analytical, critical, and results-oriented thinking, with a constant interest in continuing to learn and improve my technical skills.
 
+
 ---
 
-## 📊  Data Analyst Jr. | Python, SQL, Power BI, Tableau
+## 🛠️ Technical Skills and Tools
 
-* Python (pandas, numpy, matplotlib, scipy)
-* SQL
-* Excel
-* Power BI
-* Tableau
----
+* Programming: Python (pandas, numpy, matplotlib, scipy)
+* Data Wrangling: Cleaning, transforming, and preparing messy datasets for analysis
+* Data Analysis: Statistical and inferential analysis, hypothesis testing.
+* Data Visualization: Power BI  (Creating visualization and dashboards) 
 
-## 🛠️ Tools
-
-* Python (pandas, numpy, matplotlib)
-* SQL
-* Excel
-* Power BI
-* Tableau
 ---
 
 ## 📁 Projects
