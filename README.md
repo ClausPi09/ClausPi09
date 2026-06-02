@@ -25,9 +25,9 @@ I am characterized by my analytical, critical, and results-oriented thinking, wi
 
 ## 📁 Projects
 
-🔹 [Analisys videogames!](https://github.com/ClausPi09/video_game_sales_analysis/blob/main/README.md)
+🔹 [Analisys project videogames!](https://github.com/ClausPi09/video_game_sales_analysis/blob/main/README.md)
 
-🔹 [Análisis de KPIS](link-a-tu-proyecto)
+🔹 [Análisys project KPIS](https://github.com/ClausPi09/analysis_kpis_business/blob/main/README.md)
 
 ---
 
