@@ -30,7 +30,7 @@ I am characterized by my analytical, critical, and results-oriented thinking, wi
 🔹 [Analisys project sales of videogames](https://github.com/ClausPi09/video_game_sales_analysis/blob/main/README.md)
 
 
-🔹 [Analisys project Machine Learning]()
+🔹 [Analisys project Machine Learning](https://github.com/ClausPi09/modelo_clustering_gym_analysis)
 
 
 ---
