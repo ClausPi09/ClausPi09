@@ -24,20 +24,26 @@ I am characterized by my analytical, critical, and results-oriented thinking, wi
 ---
 
 ## 📁 Projects
-## Business KPI Project
+## 🔹Business KPI Project
 
 Analyze the profitability of marketing strategies for a company selling online event tickets by examining key business metrics—such as customer acquisition cost (CAC), return on marketing investment (ROMI), and customer lifetime value (LTV)—to identify the most efficient advertising channels.
-🔹 https://github.com/ClausPi09/analysis_kpis_business/blob/main/README.md
+
+https://github.com/ClausPi09/analysis_kpis_business/blob/main/README.md
 
 ---
 
-## Video Game Sales Analysis Project
+## 🔹Video Game Sales Analysis Project
 Analyze the behavioral variables that explain why a video game achieves higher sales or succeeds in the market.
-🔹 [Analisys project sales of videogames](https://github.com/ClausPi09/video_game_sales_analysis/blob/main/README.md)
+
+https://github.com/ClausPi09/video_game_sales_analysis/blob/main/README.md)
 
 ---
 
-🔹 [Analisys project Machine Learning](https://github.com/ClausPi09/modelo_clustering_gym_analysis)
+## 🔹ML Clustering Project for a Gym
+Identifying the key factors influencing retention and cancellation enables Model Fitness to anticipate the risk of customer churn, design effective loyalty strategies, and personalize experiences for each client.
+
+
+https://github.com/ClausPi09/modelo_clustering_gym_analysis)
 
 
 ---
