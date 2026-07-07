@@ -16,7 +16,7 @@ I am characterized by my analytical, critical, and results-oriented thinking, wi
 
 ## 🛠️ Technical Skills and Tools
 
-* Programming: Python (pandas, numpy, matplotlib, scipy)
+* Programming: Python (pandas, numpy, matplotlib, scipy), SQL
 * Data Wrangling: Cleaning, transforming, and preparing messy datasets for analysis
 * Data Analysis: Statistical and inferential analysis, hypothesis testing.
 * Data Visualization: Power BI  (Creating visualization and dashboards) 
@@ -24,11 +24,18 @@ I am characterized by my analytical, critical, and results-oriented thinking, wi
 ---
 
 ## 📁 Projects
-🔹 [Analisys project KPIS](https://github.com/ClausPi09/analysis_kpis_business/blob/main/README.md)
+## Business KPI Project
 
+Analyze the profitability of marketing strategies for a company selling online event tickets by examining key business metrics—such as customer acquisition cost (CAC), return on marketing investment (ROMI), and customer lifetime value (LTV)—to identify the most efficient advertising channels.
+🔹 https://github.com/ClausPi09/analysis_kpis_business/blob/main/README.md
 
+---
+
+## Video Game Sales Analysis Project
+Analyze the behavioral variables that explain why a video game achieves higher sales or succeeds in the market.
 🔹 [Analisys project sales of videogames](https://github.com/ClausPi09/video_game_sales_analysis/blob/main/README.md)
 
+---
 
 🔹 [Analisys project Machine Learning](https://github.com/ClausPi09/modelo_clustering_gym_analysis)
 
